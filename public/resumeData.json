@@ -151,31 +151,31 @@
       {
         "title":"ReCOVER-COVID-19",
         "category":"Provides accurate predictions and resource management for COVID-19",
-        "image":"ReCOVER-COVID-19.png",
+        "image":"ReCOVER-COVID-19.PNG",
         "url":"https://scc-usc.github.io/ReCOVER-COVID-19/#/"
       },
       {
         "title":"WeatherMeister",
         "category":"Weather Data Visualizer",
-        "image":"weathermeister.jpg",
+        "image":"Weathermeister.png",
         "url":"https://github.com/jamesdwolfe/Weathermeister"
       },
       {
         "title":"Local Grub",
         "category":"Local Restaurant Finder",
-        "image":"localgrub.png",
+        "image":"LOCALGRUB.PNG",
         "url":"https://github.com/jamesdwolfe/LOCALGRUB"
       },
       {
         "title":"SMP",
         "category":"Linear Regression Stock Market Predictor",
-        "image":"SMP.png",
+        "image":"SMP.PNG",
         "url":"https://github.com/jamesdwolfe/Stock-Market-Predictor"
       },
       {
         "title":"My Fridge",
         "category":"Recipe provider that takes into account what's in your fridge",
-        "image":"myfridge.png",
+        "image":"MyFridge.PNG",
         "url":"https://github.com/jamesdwolfe/My-Fridge"
       },
       {
