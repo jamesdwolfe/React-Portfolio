@@ -1,0 +1,201 @@
+{
+  "main": {
+    "name":"James Wolfe",
+    "occupation":"Software Engineer",
+    "description":"A recent graduate from USC, with professional experience in mobile application and full-stack development, looking to make the world a better place through software development",
+    "image":"profilepic.jpg",
+    "bio":"I love writing code. Ever since writing my first program in JavaScript and manipulating it as much as I could to get the results I desired, I have been obsessed with the idea of using software to solve practical problems. Software engineering is a never-ending puzzle that I am passionately engaged in solving. I believe in the power of programming to transform and improve the lives of people around the world. This passion carried me through my education at The University of Southern California. At this school there were more resources available to me than I ever could have imagined. I studied new languages, algorithms, data structures, compilers, software methodologies, all with the same fascination that drove me when I first started programming. It was here that I learned truly how much there was yet to learn. Now, with my sights on the industry, this passion remains with me. There's certainly more to learn, more problems to solve, and more solutions I'll build. For this, I am grateful.",
+    "email": "james.wolfe.jr@gmail.com",
+    "phone": "(661) 917-9945",
+    "address":{
+      "street":"4118 East Ave I",
+      "city":"Lancaster",
+      "state":"CA",
+      "zip": "93535"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1jP1jIjijkOFlyGZHZZmyIJGqdZVJzuBH",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/james-wolfe-984926185/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/jamesdwolfe",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/james.wolfe.7106670/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/jamesthewolfe/",
+        "className":"fa fa-instagram"
+      },
+      {
+      	"name":"photography portfolio",
+      	"url":"https://www.jameswolfephoto.com/",
+      	"className":"fa fa-camera"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of the things I've learned through school, work, or internship experiences",
+    "education":[
+      {
+        "school":"University of Southern California ✌️",
+        "degree":"B.S. in Computer Science",
+        "graduated":"December 2020",
+        "description":"Where I gained most of my programming experience. Learned how to develop large software systems, software development methodologies, video game programming, machine learning algorithms, OS fundamentals, embedded systems, app development, full-stack web development, and became extremely proficient in Java, Python, C++, and JavaScript."
+      },
+      {
+        "school":"Antelope Valley College ⚔️",
+        "degree":"General Education",
+        "graduated":"May 2018",
+        "description":"Where I began my programming career. Learned data structures, web development, low level assembly language."
+      }
+    ],
+    "work":[
+      {
+        "company":"VMware ☁️",
+        "title":"Mobile Development Intern",
+        "years":"July 2020 - October 2020",
+        "description":"Worked on the following applications: Content Locker, Campus, Proximity, and Workspace One. Designed and developed highly scalable Android Applications and libraries. Developed automated unit tests and integration tests. Analyzed the performance and scalability of existing applications and services. Participated in code reviews. Participated in product demos and UX reviews. Worked independently and effectively in a team."
+      },
+      {
+        "company":"USC Data Science Lab 📈",
+        "title":"Student Worker",
+        "years":"August 2020 - December 2020",
+        "description":"Worked on ReCOVER-COVID-19. Provided accurate predictions and resource management for COVID-19 epidemic response. Worked with a team of USC students to design and implement a new front-end interface with React, including a geobubble graph to quickly visualize the spread of COVID-19 across the world."
+      },
+      {
+        "company":"The Daily Trojan 📷",
+        "title":"Photo Editor and Staff Photographer",
+        "years":"August 2019 - December 2020",
+        "description":"Photo editor for the Daily Trojan, the student-run newspaper of the University of Southern California. Responsible for hiring, managing, and assisting staff members. Captured and edited photos for numerous college atheltic programs, especially those of the University of Southern California."
+      },
+      {
+        "company":"USC Keck School of Medicine 🏥",
+        "title":"Full-stack Web Developer",
+        "years":"May 2019 - September 2019",
+        "description":"Full-stack web development and prototyping for a Bill & Melinda Gates Foundation funded project to create new ways of visualizing Alzheimer's research data. Data visualization and mapping using the D3.js library on the frontend with a Java/MySQL backend."
+      },
+      {
+        "company":"Los Angeles Fire Department 🚒",
+        "title":"IT Volunteer",
+        "years":"June 2018 - August 2016",
+        "description":"Computer and mobile device imaging and deployment. Assisted with the first level help desk support."
+      }
+    ],
+    "skills":[
+		{
+	        "name":"C++ / C# /C",
+	        "level":"90%"
+      	},
+      	{
+	        "name":"Java / Java Servlets / JSP",
+	        "level":"85%"
+      	},
+      	{
+	        "name":"Python",
+	        "level":"85%"
+      	},
+      	{
+	        "name":"Kotlin / Android Studio / Android Development",
+	        "level":"80%"
+      	},
+      	{
+	        "name":"MySQL",
+	        "level":"80%"
+      	},
+      	{
+	        "name":"JavaScript / React.js / Node.js / D3.js",
+	        "level":"70%"
+      	},
+      	{
+	        "name":"HTML5 / CSS",
+	        "level":"70%"
+      	},
+      	{
+	        "name":"Multi-threading / Concurrent Computing",
+	        "level":"70%"
+      	},
+      	{
+	        "name":"Unity 3D",
+	        "level":"70%"
+      	},
+      	{
+	        "name":"Tensorflow / Scikit-Learn / Numpy / Pandas",
+	        "level":"60%"
+      	},
+      	{
+	        "name":"PHP",
+	        "level":"60%"
+      	},
+      	{
+	        "name":"Git",
+	        "level":"60%"
+      	},
+      	{
+	        "name":"Adobe Lightroom / Adobe Photoshop / Adobe Premiere Pro",
+	        "level":"90%"
+      	}
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"ReCOVER-COVID-19",
+        "category":"Provides accurate predictions and resource management for COVID-19",
+        "image":"ReCOVER-COVID-19.png",
+        "url":"https://scc-usc.github.io/ReCOVER-COVID-19/#/"
+      },
+      {
+        "title":"WeatherMeister",
+        "category":"Weather Data Visualizer",
+        "image":"weathermeister.jpg",
+        "url":"https://github.com/jamesdwolfe/Weathermeister"
+      },
+      {
+        "title":"Local Grub",
+        "category":"Local Restaurant Finder",
+        "image":"localgrub.png",
+        "url":"https://github.com/jamesdwolfe/LOCALGRUB"
+      },
+      {
+        "title":"SMP",
+        "category":"Linear Regression Stock Market Predictor",
+        "image":"SMP.png",
+        "url":"https://github.com/jamesdwolfe/Stock-Market-Predictor"
+      },
+      {
+        "title":"My Fridge",
+        "category":"Recipe provider that takes into account what's in your fridge",
+        "image":"myfridge.png",
+        "url":"https://github.com/jamesdwolfe/My-Fridge"
+      },
+      {
+        "title":"Mario",
+        "category":"Mario clone made with C++",
+        "image":"mario.png",
+        "url":"https://github.com/jamesdwolfe/Bean-Leaf"
+      },
+      {
+        "title":"Zelda",
+        "category":"Zelda clone made with C++",
+        "image":"zelda.png",
+        "url":"https://github.com/jamesdwolfe/Bean-Leaf"
+      },
+      {
+        "title":"Mario Kart",
+        "category":"Mario Kart clone made with C++",
+        "image":"mario-kart.png",
+        "url":"https://github.com/jamesdwolfe/Bean-Leaf"
+      }
+    ]
+  }
+}

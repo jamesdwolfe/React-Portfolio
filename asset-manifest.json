@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.bab0b925.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.8368754e.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.8368754e.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.04ef6034.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.04ef6034.js.map",
+    "static/js/2.8b5cd56f.chunk.js": "/React-Portfolio/static/js/2.8b5cd56f.chunk.js",
+    "static/js/2.8b5cd56f.chunk.js.map": "/React-Portfolio/static/js/2.8b5cd56f.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/React-Portfolio/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.8b5cd56f.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8b5cd56f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04ef6034.js",
+    "static/js/2.8b5cd56f.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.8368754e.chunk.js"
+  ]
+}
