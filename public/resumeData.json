@@ -182,19 +182,19 @@
         "title":"Mario",
         "category":"Mario clone made with C++",
         "image":"mario.png",
-        "url":"https://github.com/jamesdwolfe/Bean-Leaf"
+        "url":"https://gitfront.io/r/jamesdwolfe/56796cec0cdc55d59bea976f07fa4a7adc60226f/Mario/"
       },
       {
         "title":"Zelda",
         "category":"Zelda clone made with C++",
         "image":"zelda.png",
-        "url":"https://github.com/jamesdwolfe/Bean-Leaf"
+        "url":"https://gitfront.io/r/jamesdwolfe/b9467afcdcf34479e5ac805d5f63276808ab7430/Zelda/"
       },
       {
         "title":"Mario Kart",
         "category":"Mario Kart clone made with C++",
         "image":"mario-kart.png",
-        "url":"https://github.com/jamesdwolfe/Bean-Leaf"
+        "url":"https://gitfront.io/r/jamesdwolfe/5faf4362d5ccb623073d950d04e28b536a582163/Mario-Kart/"
       }
     ]
   }
